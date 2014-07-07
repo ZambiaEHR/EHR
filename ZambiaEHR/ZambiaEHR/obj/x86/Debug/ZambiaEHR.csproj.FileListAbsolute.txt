@@ -1,0 +1,11 @@
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\bin\Debug\ZambiaEHR.exe
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\bin\Debug\ZambiaEHR.pdb
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\MainWindow.baml
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\MainWindow.g.cs
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\App.g.cs
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\ZambiaEHR_MarkupCompile.cache
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\ZambiaEHR.g.resources
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\ZambiaEHR.Properties.Resources.resources
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\ZambiaEHR.csproj.GenerateResource.Cache
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\ZambiaEHR.exe
+C:\Git\EHR\ZambiaEHR\ZambiaEHR\obj\x86\Debug\ZambiaEHR.pdb

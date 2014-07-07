@@ -1,0 +1,8 @@
+﻿<Window x:Class="ZambiaEHR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Zambia Electronic Health Record" Height="49" HorizontalAlignment="Left" Margin="70,121,0,0" Name="label1" VerticalAlignment="Top" FontSize="24" Width="382" />
+    </Grid>
+</Window>
